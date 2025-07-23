@@ -30,5 +30,3 @@ Folder: `/ (root)`
 ---
 
 Created with ☕ and ❤️ by [Mohammed Faisal Iqbal](https://github.com/faisaliqbal-dev)
-
-
